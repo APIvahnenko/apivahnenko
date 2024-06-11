@@ -2,7 +2,7 @@
 
 Data Scientist, working on open-source data projects. I'm passionate about sharing my skills and continuously learning.
 
-🔭 I’m currently **working on a website** portfolio project for my friend
+🔭 I’m currently **working on a website portfolio project for my friend**
 
 🌱 I’m currently learning **MLOps**
 
@@ -10,11 +10,11 @@ Data Scientist, working on open-source data projects. I'm passionate about shari
 
 🤔 I’m looking for help on **how to implement a website content management systems**
 
-<!--💬 Ask me about **Ukraine**, **wind turbines vs solar panels**, **infectious disease outbreak simulations**--->
+<!--💬 Ask me about **Ukraine**, **wind turbines vs solar panels**, **infectious disease outbreak simulations**
 
-😄 Pronouns: **she/her**
+😄 Pronouns: **she/her**--->
 
-⚡ Fun fact: **I love climbing, hiking, and spending time in nature**
+🌻 Fun fact: **I love climbing, hiking, and spending time in nature**
 
 
 ### Background
