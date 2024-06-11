@@ -1,10 +1,16 @@
-- 🔭 I’m currently working on a website portfolio project for my friend
-- 🌱 I’m currently learning MLOps and backend design
-- 👯 I’m looking to collaborate on data projects to do with energy, economy, or health
-- 🤔 I’m looking for help with website content management systems
-- 💬 Ask me about Ukraine, wind turbines vs solar panels, infectious disease outbreak simulations
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love climbing, hiking, and spending time in nature + painting with watercolors (still learning to use Procreate) 
+🔭 I’m currently working on a website portfolio project for my friend
+
+🌱 I’m currently learning MLOps and backend design
+
+👯 I’m looking to collaborate on data projects to do with energy, economy, or health
+
+🤔 I’m looking for help on how to implement a website content management systems
+
+💬 Ask me about Ukraine, wind turbines vs solar panels, infectious disease outbreak simulations
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I love climbing, hiking, and spending time in nature + painting with watercolors (still learning to use Procreate) 
 
 ### Background
 
