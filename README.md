@@ -1,6 +1,8 @@
+## 👋 Hi there!
+
 🔭 I’m currently working on a website portfolio project for my friend
 
-🌱 I’m currently learning MLOps and backend design
+🌱 I’m currently learning MLOps and backend designhttps://github.com/APIvahnenko/apivahnenko/blob/main/README.md
 
 👯 I’m looking to collaborate on data projects to do with energy, economy, or health
 
@@ -25,3 +27,5 @@ Now, I'm diving into freelancing and creating a data journalism portfolio that h
 📫 To reach me, please email me at [apivahk@gmail.com](mailto:apivahk@gmail.com)
 
 _if you include 'git' or an emoji in the title, I'll definitely get to read it_ 🙌
+
+<!-- ![](https://komarev.com/ghpvc/?username=apivahnenko&color=green&label=👀&style=flat) -->
