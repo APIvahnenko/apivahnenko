@@ -6,7 +6,7 @@ Data Scientist, working on open-source data projects. I'm passionate about shari
 
 🌱 I’m currently learning **MLOps**
 
-👯 I’m looking to **collaborate on data projects to do with energy, economy, or health**
+👯 I’m looking to **collaborate on data projects to do with energy, economy, health or music**
 
 🤔 I’m looking for help on **how to implement a website content management systems**
 
@@ -14,7 +14,7 @@ Data Scientist, working on open-source data projects. I'm passionate about shari
 
 😄 Pronouns: **she/her**--->
 
-🌻 Fun fact: **I love climbing, hiking, and spending time in nature**
+🌻 Fun fact: **I love music, climbing, hiking, and spending time in nature**
 
 
 ### Background
