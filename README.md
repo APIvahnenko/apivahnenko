@@ -4,7 +4,7 @@ Data Scientist, working on open-source data projects. I'm passionate about shari
 
 🔭 I’m currently **working on a website portfolio project for my friend**
 
-🌱 I’m currently learning about **MMMs**
+🌱 I’m currently learning about **Snowflake & AWS**
 
 👯 I’m looking to **collaborate on data projects to do with energy, economy, health or music**
 
